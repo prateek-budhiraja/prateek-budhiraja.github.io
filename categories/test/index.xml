@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>test - Category - Prateek Budhiraja</title>
+        <link>https://prateekbudhiraja.in/categories/test/</link>
+        <description>test - Category - Prateek Budhiraja</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Oct 2021 19:00:58 &#43;0530</lastBuildDate><atom:link href="https://prateekbudhiraja.in/categories/test/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://prateekbudhiraja.in/test/</link>
+    <pubDate>Fri, 15 Oct 2021 19:00:58 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>https://prateekbudhiraja.in/test/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
